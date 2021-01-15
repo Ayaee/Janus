@@ -1,0 +1,15 @@
+﻿  Chambre.cpp
+  Couloir.cpp
+  JeuNull.cpp
+  JeuDeux.cpp
+  Jeu.cpp
+  Menu.cpp
+  MenuTest.cpp
+  Rooms.cpp
+  SDB.cpp
+  Test.cpp
+  Variables.cpp
+  Génération de code en cours...
+H:\Artfx\C++\JeuNarratif\JeuNarratif\Rooms.cpp(79): warning C4715: 'Rooms::Couloir' : les chemins de contrôle ne retournent pas tous une valeur
+H:\Artfx\C++\JeuNarratif\JeuNarratif\Rooms.cpp(50): warning C4715: 'Rooms::Chambre' : les chemins de contrôle ne retournent pas tous une valeur
+  JeuNarratif.vcxproj -> H:\Artfx\C++\JeuNarratif\x64\Debug\JeuNarratif.exe
